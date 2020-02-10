@@ -1,0 +1,12 @@
+
+#canvas{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+.pixel{
+    height: 5px;
+    width: 5px;
+    float: left;
+}
